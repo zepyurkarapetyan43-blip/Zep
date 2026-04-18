@@ -1,1 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Իմ առաջին էջը</title>
+</head>
+<body>
 
+    <h1>Բարի գալուստ</h1>
+    <p>Սա իմ առաջին հասարակ HTML էջն է:</p>
+    
+    <a href="https://www.google.com">Սեղմիր այստեղ Google գնալու համար</a>
+
+</body>
+</html>
